@@ -7,7 +7,20 @@ author_profile: true
 
 ## Key Projects
 
+### Quantum Powered Business Rule Engine
+
+<p style="color: grey">Group project, <strong>Gold Medal</strong>, Inter IIT Tech Meet 12.0</p>
+
+<img src="../images/business-rule-engine.jpeg" alt="quantum powered business rule engine" width="200"/>
+
+[[*Drive*]](https://bit.ly/3tCRDCf)
+
+Made a robust business rule
+engine, which re-accomodates passengers whose flights have been disrupted due to various reasons by using **Quantum Computing**. The designed engine exhibits a high degree of flexibility, accommodating dynamic rule changes and adjustments to penalties, as may be necessitated by end-users, typically within the context of an airline operation.
+
 ### Competitive Programming Helper Discord Bot
+
+<p style="color: grey">Group project, CP Module 2022</p>
 
 <img src="../images/TLEbot.png" alt="dbinc" width="200"/>
 
@@ -16,6 +29,8 @@ author_profile: true
 In this bot, we focussed to make the user experience more enthralling on various judges (we have also added functionalities for [AtCoder](https://atcoder.jp/), something which was never done before) by keeping track of various statistics of each user such as number of questions solved, most difficult questions solved, performance in each contest, and graphs related to all these metrics. Also, two different users can challenge each other to a CP duel using our bot. Also, this bot can be used for practicing on the judges as the bot recommends questions to each user according to his/her rating and also recommends the perfect contests on which the user can perform a virtual contest to enhance his/her CP skills.
 
 ### Database in C
+
+<p style="color: grey">Self Project</p>
 
 <img src="../images/db-in-c.jpeg" alt="dbinc" width="200"/>
 

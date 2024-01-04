@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* **Dec '23** Secured **1st** place (Gold Medal) among **21 IITs** in the Inter IIT Tech Meet 12.0! Check out the project [here](https://bit.ly/3tCRDCf)!
 * **Oct '23** Secured **4th** position in the [APAC Terminal](https://terminal.c1games.com/competitions/304/live-algos) by [Citadel Securities](https://www.citadelsecurities.com/) and [Correlation One](https://www.correlation-one.com/)!
 * **Sep '23** Selected to attend [Amazon ML Summer School 2023](https://www.amazon.science/news-and-features/third-annual-2023-ml-summer-school-amazon-india) virtually from over 17,000 students from India.
 * **Aug '23** Received a Software Development Engineer internship offer from [UiPath](https://www.uipath.com/) for the Summer of 2024!

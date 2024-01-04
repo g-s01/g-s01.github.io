@@ -11,9 +11,9 @@ author_profile: true
 
 ![IITG](../images/IITG_Logo.png)
 
-**Bachelors in Computer Science and Engineering** (Nov '21 - Present): Grade: 8.95/10
+**Bachelors in Computer Science and Engineering** (Nov '21 - Present): Grade: 8.73/10
 
-**Minor in Data Science and Artificial Intelligence** (Jul '22 - Present): Grade: 7.5/10
+**Minor in Data Science and Artificial Intelligence** (Jul '22 - Present): Grade: 7.00/10
 
 Positions of Responsibility:
 

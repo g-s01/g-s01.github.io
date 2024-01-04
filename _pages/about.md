@@ -14,4 +14,4 @@ Coming to Algorithms, I love [Competitive Programming](https://en.wikipedia.org/
 
 Coming to programming languages, I am most fascinated and interested in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B)! Apart from this, I know a thing or two about, [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Verilog](https://en.wikipedia.org/wiki/Verilog), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) and [VimScript](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)!
 
-Please feel free to check out my [resume](../files/Résumé.pdf) and drop me an email at `gautam_sharma1@yahoo.com` if you want to chat with me!
+Please feel free to check out my [resume](../files/full_cv.pdf) and drop me an email at `gautam_sharma1@yahoo.com` if you want to chat with me!

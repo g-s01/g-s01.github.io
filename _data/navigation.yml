@@ -18,6 +18,9 @@ main:
   - title: "Photography"
     url: /photos/
 
+  - title: "CP"
+    url: /cp/
+
   # - title: "Publications"
   #   url: /publications/
 

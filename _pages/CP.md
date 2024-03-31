@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CP"
+title: ""
 permalink: /cp/
 author_profile: true
 ---

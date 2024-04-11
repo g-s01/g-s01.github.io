@@ -4,7 +4,7 @@ layout: archive
 permalink: /archive-layout-with-content/
 ---
 
-A variety of common markup showing how the theme styles them.
+<!-- A variety of common markup showing how the theme styles them.
 
 # Header one
 
@@ -174,4 +174,4 @@ This allows you to denote <var>variables</var>.
 {% include base_path %}
 {% for post in site.pages %}
 {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Win <b>4th place</b> at Correlation One's [Terminal](https://terminal.c1games.com/competitions/304) 2023, Chennai!
+Won <b>4th place</b> at Correlation One's [Terminal](https://terminal.c1games.com/competitions/304) 2023!

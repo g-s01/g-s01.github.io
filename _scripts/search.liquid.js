@@ -1,6 +1,8 @@
+/*
 ---
 permalink: /assets/js/search-data.js
 ---
+*/
 // get the ninja-keys element
 const ninja = document.querySelector('ninja-keys');
 

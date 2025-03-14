@@ -16,3 +16,8 @@ nav_order: 6
     The nature whispers tranquility with each stroke of wind. <br>
     <i>IITG Lake, IIT Guwahati, 09-11-2024</i>
 </div>
+
+<a href='./warichora.md'>WariChora</a>
+<a href='./nongjrong.md'>Nongjrong</a>
+<a href='./sunset.md'>Sunset</a>
+<a href='./flowers.md'>Flowers</a>

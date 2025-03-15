@@ -17,11 +17,11 @@ nav_order: 6
     <i>IITG Lake, IIT Guwahati, 09-11-2024</i>
 </div>
 <br>
-<a href='./warichora.md'>WariChora</a>
+<a href='https://g-s01.github.io/warichora'>WariChora</a>
 <br>
-<a href='./nongjrong.md'>Nongjrong</a>
+<a href='https://g-s01.github.io/nongjong'>Nongjrong</a>
 <br>
-<a href='./sunset.md'>Sunset</a>
+<a href='https://g-s01.github.io/sunset'>Sunset</a>
 <br>
-<a href='./flowers.md'>Flowers</a>
+<a href='https://g-s01.github.io/flowers'>Flowers</a>
 <br>

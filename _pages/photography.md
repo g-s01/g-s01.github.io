@@ -19,7 +19,7 @@ nav_order: 6
 <br>
 <a href='https://g-s01.github.io/warichora'>WariChora</a>
 <br>
-<a href='https://g-s01.github.io/nongjong'>Nongjrong</a>
+<a href='https://g-s01.github.io/nongjrong'>Nongjrong</a>
 <br>
 <a href='https://g-s01.github.io/sunset'>Sunset</a>
 <br>

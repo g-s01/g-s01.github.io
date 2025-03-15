@@ -23,6 +23,6 @@ Hey! I am Gautam, a CS and Tech enthusiast!
 I love building software that solves real life problems and pondering how software can
 solve today's problems.
 
-Currently, exploring Blockchain Technology, and Cryptography.
+Currently, exploring Blockchain Technology, Artificial Intelligence and Cryptography.
 
 Connect with me @ [gautam_sharma1@yahoo.com](mailto:gautam_sharma1@yahoo.com)

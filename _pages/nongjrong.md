@@ -3,7 +3,7 @@ layout: page
 permalink: /nongjrong/
 title: Nongjrong
 description: Photos that I clicked!
-nav: true
+nav: false
 nav_order: 6
 ---
 

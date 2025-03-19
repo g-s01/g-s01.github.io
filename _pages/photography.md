@@ -25,3 +25,5 @@ nav_order: 6
 <br>
 <a href='https://g-s01.github.io/flowers'>Flowers</a>
 <br>
+<a href='https://g-s01.github.io/sunrise'>Sunrise</a>
+<br>

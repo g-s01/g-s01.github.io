@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /sunset/
-title: Sunset
+permalink: /sunrise/
+title: Sunrise
 description: Photos that I clicked!
 nav: false
 nav_order: 6

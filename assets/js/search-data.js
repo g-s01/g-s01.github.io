@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-photography",
+          title: "photography",
+          description: "Photos that I clicked!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/photography/";
+          },
         },{id: "post-poem-radiance-in-the-dark",
         
           title: "Poem - Radiance in the Dark",
